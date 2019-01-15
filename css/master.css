@@ -1,0 +1,19 @@
+/*Custome CSS ,*/
+/*Menggunakan Class*/
+.cs-jumbotron{
+	background-color: #06092b;
+	color: white;
+}
+
+.konten1{
+	margin-top: 15px;
+	margin-bottom: 25px;
+}
+
+.konten2{
+	height: 350px;
+}
+
+.btn-cek{
+	padding-top: 30px;
+}
